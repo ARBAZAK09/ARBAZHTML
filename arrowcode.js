@@ -17,7 +17,6 @@ sum of
 50+60 =${addnumbers(50,60)}
 50-60 =${numbers(50,60)}
 50*60 =${multnumbers(50,60)}
-
 50/60 =${divnumbers(50,60)}
 
 
